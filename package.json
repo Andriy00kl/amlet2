@@ -1,0 +1,26 @@
+{
+  "name": "amlet2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andriy00kl/amlet2.git"
+  },
+  "author": "Andriy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andriy00kl/amlet2/issues"
+  },
+  "homepage": "https://github.com/Andriy00kl/amlet2#readme",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "mysql2": "^3.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
